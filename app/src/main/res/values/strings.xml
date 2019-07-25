@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Speech to Text Offline Mode</string>
+    <string name="action_settings">Settings</string>
+    <string name="Say_Something">Say Something</string>
+    <string name="speech_prompt">Say Something&#8230;</string>
+    <string name="speech_unsupported">Sorry, Speech Device doesnot supported</string>
+    <string name="tap_mic">Tap On Mic</string>
+</resources>
